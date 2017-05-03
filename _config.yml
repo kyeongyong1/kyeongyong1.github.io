@@ -18,6 +18,7 @@ url: "https://kyeongyong1.github.io" # the base hostname & protocol for your sit
 twitter_username:
 github_username:  kyeongyong1
 disqus_username:
+google_analytics: "UA-98422123-1"
 
 # Build settings
 markdown: kramdown
